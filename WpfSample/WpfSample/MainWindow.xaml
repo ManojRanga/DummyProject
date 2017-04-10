@@ -20,6 +20,7 @@
         </DataGrid>
         <DatePicker HorizontalAlignment="Left" Margin="258,146,0,0" VerticalAlignment="Top"/>
         <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Margin="176,214,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="87,181,0,0" VerticalAlignment="Top" Width="118"/>
     </Grid>
     
 </Window>
