@@ -19,6 +19,7 @@
             </DataGrid.Columns>
         </DataGrid>
         <DatePicker HorizontalAlignment="Left" Margin="258,146,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Margin="176,214,0,0" VerticalAlignment="Top"/>
     </Grid>
     
 </Window>
